@@ -28,6 +28,30 @@
   color: #61dafb;
 }
 
+.create-btn, .header-text, .btn-space {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.spinner-load {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: 'center';
+}
+
+.back-link {
+  color: blue;
+  cursor: pointer;
+}
+
+.register-form {
+  width: 960px;
+  margin: 0 auto;
+  border: solid 2px #ccc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
